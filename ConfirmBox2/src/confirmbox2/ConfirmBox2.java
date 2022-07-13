@@ -33,6 +33,7 @@ public class ConfirmBox2 {
      *
      */
     public static void main(final String[] args) throws Exception {
+        System.out.println("Testing github.");
                 try {
             
             /** MacOSX - Swing components such as the FileChooser sometimes
