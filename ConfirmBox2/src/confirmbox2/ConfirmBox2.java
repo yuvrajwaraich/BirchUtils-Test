@@ -34,6 +34,7 @@ public class ConfirmBox2 {
      */
     public static void main(final String[] args) throws Exception {
         System.out.println("Testing github.");
+        System.out.println("new test");
                 try {
             
             /** MacOSX - Swing components such as the FileChooser sometimes
