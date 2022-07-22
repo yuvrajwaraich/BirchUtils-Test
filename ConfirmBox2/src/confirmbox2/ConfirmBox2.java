@@ -33,10 +33,8 @@ public class ConfirmBox2 {
      *
      */
     public static void main(final String[] args) throws Exception {
-        System.out.println("Testing github.");
-        System.out.println("new test");
-        System.out.println("new test 3");
                 try {
+		System.out.println("testing");
             
             /** MacOSX - Swing components such as the FileChooser sometimes
              * don't popup on the screen. To fix this, the code
