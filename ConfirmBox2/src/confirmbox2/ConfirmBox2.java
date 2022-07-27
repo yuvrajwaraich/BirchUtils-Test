@@ -34,8 +34,7 @@ public class ConfirmBox2 {
      */
     public static void main(final String[] args) throws Exception {
                 try {
-		System.out.println("testing");
-		System.out.println("release test");
+                System.out.println("testing netbeans git");
             
             /** MacOSX - Swing components such as the FileChooser sometimes
              * don't popup on the screen. To fix this, the code
