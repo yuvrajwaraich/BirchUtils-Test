@@ -19,6 +19,7 @@ import java.util.logging.Logger;
 public class DirChooser2 {
     
     /**
+     * TEST OF GIT IN NETBEANS
      * Opens a file chooser, and prints the fully-qualified path of the selected directory.
      * DirChooser2 is designed as a platform-independent way for scripts to
      * open a popup window to choose a directory.<br>
